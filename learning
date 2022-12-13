@@ -1,4 +1,5 @@
 All learning parts:
+
 ->8/12/2022
 
 - Drag and drop for GUI
@@ -6,7 +7,16 @@ All learning parts:
 - Implementation in right way with different thinking
 - Stay in office untill you complete your task
 
-  ->9/12/2022
+->9/12/2022
 
 - Revision of some predefined methods of JS.
 - Remove strict mode first, when some error occur due to React Production site.
+
+->12/12/2022
+
+- Revision of logic behind initialization of variable.
+
+->13/12/2022
+
+- Higher Order Components
+- Ounce logical task
